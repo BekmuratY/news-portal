@@ -1,0 +1,31 @@
+.comment-item {
+    border-left: 2px solid #ccc;
+    padding-left: 16px;
+    margin-bottom: 12px;
+  }
+  
+  .comment-meta {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 4px;
+  }
+  
+  .comment-text {
+    margin-bottom: 8px;
+    font-size: 15px;
+  }
+  
+  .comment-actions button {
+    margin-right: 8px;
+    padding: 4px 8px;
+    font-size: 13px;
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .comment-actions button:hover {
+    background-color: #e0e0e0;
+  }
+  

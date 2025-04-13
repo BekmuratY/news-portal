@@ -1,0 +1,43 @@
+.home-container {
+    padding: 40px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .home-search {
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 24px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .news-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    background: #fafafa;
+  }
+  
+  .news-card h3 {
+    margin: 0;
+  }
+  
+  .news-card p {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .load-more {
+    margin-top: 16px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
